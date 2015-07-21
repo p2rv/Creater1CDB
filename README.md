@@ -1,2 +1,2 @@
 # Creater1CDB
-Automaticaly create 1C database
+Utilite for automaticaly create 1C database.
